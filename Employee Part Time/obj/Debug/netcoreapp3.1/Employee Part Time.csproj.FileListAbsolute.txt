@@ -1,0 +1,13 @@
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\bin\Debug\netcoreapp3.1\Employee Part Time.exe
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\bin\Debug\netcoreapp3.1\Employee Part Time.deps.json
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\bin\Debug\netcoreapp3.1\Employee Part Time.runtimeconfig.json
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\bin\Debug\netcoreapp3.1\Employee Part Time.runtimeconfig.dev.json
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\bin\Debug\netcoreapp3.1\Employee Part Time.dll
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\bin\Debug\netcoreapp3.1\Employee Part Time.pdb
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\obj\Debug\netcoreapp3.1\Employee Part Time.csproj.AssemblyReference.cache
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\obj\Debug\netcoreapp3.1\Employee Part Time.AssemblyInfoInputs.cache
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\obj\Debug\netcoreapp3.1\Employee Part Time.AssemblyInfo.cs
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\obj\Debug\netcoreapp3.1\Employee Part Time.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\obj\Debug\netcoreapp3.1\Employee Part Time.dll
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\obj\Debug\netcoreapp3.1\Employee Part Time.pdb
+C:\Users\kisho\Fellowship Day-4\Employee Part Time\obj\Debug\netcoreapp3.1\Employee Part Time.genruntimeconfig.cache

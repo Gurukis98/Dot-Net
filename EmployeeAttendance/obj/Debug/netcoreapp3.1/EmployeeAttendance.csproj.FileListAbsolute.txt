@@ -1,0 +1,13 @@
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.exe
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.deps.json
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.runtimeconfig.json
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.runtimeconfig.dev.json
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.dll
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.pdb
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.csproj.AssemblyReference.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.AssemblyInfoInputs.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.AssemblyInfo.cs
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.dll
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.pdb
+C:\Users\kisho\Fellowship Day-4\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.genruntimeconfig.cache

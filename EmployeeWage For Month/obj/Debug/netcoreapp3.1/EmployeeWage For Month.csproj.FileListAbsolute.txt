@@ -1,0 +1,13 @@
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\obj\Debug\netcoreapp3.1\EmployeeWage For Month.csproj.AssemblyReference.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\obj\Debug\netcoreapp3.1\EmployeeWage For Month.AssemblyInfoInputs.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\obj\Debug\netcoreapp3.1\EmployeeWage For Month.AssemblyInfo.cs
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\obj\Debug\netcoreapp3.1\EmployeeWage For Month.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\bin\Debug\netcoreapp3.1\EmployeeWage For Month.exe
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\bin\Debug\netcoreapp3.1\EmployeeWage For Month.deps.json
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\bin\Debug\netcoreapp3.1\EmployeeWage For Month.runtimeconfig.json
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\bin\Debug\netcoreapp3.1\EmployeeWage For Month.runtimeconfig.dev.json
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\bin\Debug\netcoreapp3.1\EmployeeWage For Month.dll
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\bin\Debug\netcoreapp3.1\EmployeeWage For Month.pdb
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\obj\Debug\netcoreapp3.1\EmployeeWage For Month.dll
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\obj\Debug\netcoreapp3.1\EmployeeWage For Month.pdb
+C:\Users\kisho\Fellowship Day-4\EmployeeWage For Month\obj\Debug\netcoreapp3.1\EmployeeWage For Month.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\obj\Debug\netcoreapp3.1\EmployeeWage Using Switch.csproj.AssemblyReference.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\obj\Debug\netcoreapp3.1\EmployeeWage Using Switch.AssemblyInfoInputs.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\obj\Debug\netcoreapp3.1\EmployeeWage Using Switch.AssemblyInfo.cs
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\obj\Debug\netcoreapp3.1\EmployeeWage Using Switch.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\bin\Debug\netcoreapp3.1\EmployeeWage Using Switch.exe
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\bin\Debug\netcoreapp3.1\EmployeeWage Using Switch.deps.json
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\bin\Debug\netcoreapp3.1\EmployeeWage Using Switch.runtimeconfig.json
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\bin\Debug\netcoreapp3.1\EmployeeWage Using Switch.runtimeconfig.dev.json
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\bin\Debug\netcoreapp3.1\EmployeeWage Using Switch.dll
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\bin\Debug\netcoreapp3.1\EmployeeWage Using Switch.pdb
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\obj\Debug\netcoreapp3.1\EmployeeWage Using Switch.dll
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\obj\Debug\netcoreapp3.1\EmployeeWage Using Switch.pdb
+C:\Users\kisho\Fellowship Day-4\EmployeeWage Using Switch\obj\Debug\netcoreapp3.1\EmployeeWage Using Switch.genruntimeconfig.cache
