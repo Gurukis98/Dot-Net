@@ -1,0 +1,13 @@
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\obj\Debug\netcoreapp3.1\DotNetPP.csproj.AssemblyReference.cache
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\obj\Debug\netcoreapp3.1\DotNetPP.AssemblyInfoInputs.cache
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\obj\Debug\netcoreapp3.1\DotNetPP.AssemblyInfo.cs
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\obj\Debug\netcoreapp3.1\DotNetPP.csproj.CoreCompileInputs.cache
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\bin\Debug\netcoreapp3.1\DotNetPP.exe
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\bin\Debug\netcoreapp3.1\DotNetPP.deps.json
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\bin\Debug\netcoreapp3.1\DotNetPP.runtimeconfig.json
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\bin\Debug\netcoreapp3.1\DotNetPP.runtimeconfig.dev.json
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\bin\Debug\netcoreapp3.1\DotNetPP.dll
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\bin\Debug\netcoreapp3.1\DotNetPP.pdb
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\obj\Debug\netcoreapp3.1\DotNetPP.dll
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\obj\Debug\netcoreapp3.1\DotNetPP.pdb
+C:\Users\kisho\DotNet Practice Problem\DotNetPP\DotNetPP\obj\Debug\netcoreapp3.1\DotNetPP.genruntimeconfig.cache
